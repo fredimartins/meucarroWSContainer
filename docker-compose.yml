@@ -1,0 +1,5 @@
+meucarrows:
+  image: meucarrows
+  container_name: meucarrows
+  ports:
+   - "8080:8080"
