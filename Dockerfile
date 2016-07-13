@@ -16,7 +16,7 @@ RUN cd /meucarroWS && mvn install
 
 # run
 #RUN 
-CMD java -jar /meucarroWS/target/boot-rest-api-0.1.jar
+CMD java -jar /meucarroWS/target/meucarroWS-0.0.1-SNAPSHOT.jar
 
 #Port
 EXPOSE 8080
